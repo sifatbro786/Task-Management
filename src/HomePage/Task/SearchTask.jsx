@@ -1,6 +1,5 @@
 export default function SearchTask() {
   return (
-    <>
       <form>
         <div className="flex">
           <div className="relative overflow-hidden rounded-lg text-gray-50 md:min-w-[380px] lg:min-w-[440px]">
@@ -35,6 +34,5 @@ export default function SearchTask() {
           </div>
         </div>
       </form>
-    </>
   );
 }
